@@ -1,0 +1,24 @@
+{
+  "name": "fictional-disco",
+  "version": "1.0.0",
+  "description": "daily notebook prompts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zacharyc/fictional-disco.git"
+  },
+  "keywords": [
+    "writing",
+    "motivation",
+    "inspiration"
+  ],
+  "author": "zacharyc - Zachary Cohen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zacharyc/fictional-disco/issues"
+  },
+  "homepage": "https://github.com/zacharyc/fictional-disco#readme"
+}

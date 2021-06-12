@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/zacharyc/fictional-disco/issues"
   },
-  "homepage": "https://github.com/zacharyc/fictional-disco#readme"
+  "homepage": "https://github.com/zacharyc/fictional-disco#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
